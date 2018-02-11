@@ -1,0 +1,1 @@
+mainX + mainWidth - d3.event.x&&d3.event.x-mainX > minRectLength&&mainY+mainHeight-d3.event.y > minRectLength&&d3.event.y-mainY > minRectLength
